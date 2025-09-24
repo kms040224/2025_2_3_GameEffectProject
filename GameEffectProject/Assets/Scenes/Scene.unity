@@ -923,6 +923,16 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6632729344752828367, guid: aac48e5f2b0d6984db4c6999a5ea3409,
+        type: 3}
+      propertyPath: UVModule.frameOverTime.scalar
+      value: 0.984375
+      objectReference: {fileID: 0}
+    - target: {fileID: 6632729344752828367, guid: aac48e5f2b0d6984db4c6999a5ea3409,
+        type: 3}
+      propertyPath: CustomDataModule.vector0_0.scalar
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7653443001794002432, guid: aac48e5f2b0d6984db4c6999a5ea3409,
         type: 3}
       propertyPath: CustomDataModule.color1.maxColor.b
